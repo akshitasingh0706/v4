@@ -1,12 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2021-08-01'
+title: 'Machine Learning Researcher'
+company: 'UC Irvine'
+location: 'Irvine, CA'
+range: 'August 2021 - Present'
+url: 'https://healthscitech.nursing.uci.edu/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Developed personalized Machine Learning models to predict mood-disorders using Multi-Task, Multi-Kernel Learning and Least Squares SVMs, with 80 features of physiological data.
+- Increased mood-prediction accuracy by 15-20% compared to similar studies by formulating 3 personality clusters using Dynamic Time Warping, and box plots besides k-means.
+- Lead research paper writer/reviewer (currently under review).

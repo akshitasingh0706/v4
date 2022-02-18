@@ -136,13 +136,31 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Heya! This is Akshita. I am an 80% Machine Learning Researcher and 20% artist/comic.
+              As a current MS in Computer Science student with a past in Economics, I am always down
+              to debate causal inferences versus prediction models. I am currently researching with
+              Professor Amir Rehmani's Health SciTech group at UCI.
             </p>
 
             <p>
+              At the Health SciTech group, I have worked on developing personalized Machine Learning
+              models (using algorithms Multi-Task Learning, Multi-Kernel Learning, Heirarchical
+              Bayesian Inferences, and Least Squares Support Vector Machines) to predict mental
+              health amongst college students. I also work on finding appropriate clusters to group
+              different personalities using statistical and probabilistic methods such as Dynamic
+              Time Warping, Box plots, and ANOVA.
+            </p>
+
+            <p>
+              As Data Science consultant at Google I worked with 3 different Google teams. I
+              implemented marketing data pipelines to track email to product conversions. Through
+              iterative and balanced A/B testing techniques, I helped reduce churn by 5-10% on
+              different Google products. I also helped construct Machine Learning models to assign
+              health scores to our customers which helped predict our at-risk audience well in
+              advance.
+            </p>
+
+            {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
@@ -151,18 +169,18 @@ const About = () => {
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
               clients.
-            </p>
+            </p> */}
 
-            <p>
+            {/* <p>
               I also recently{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
                 launched a course
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p>
+            </p> */}
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            {/* <p>Here are a few technologies I’ve been working with recently:</p> */}
           </div>
 
           <ul className="skills-list">
